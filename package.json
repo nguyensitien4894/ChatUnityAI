@@ -1,0 +1,25 @@
+{
+  "name": "com.chatunity.ai-assistant",
+  "version": "1.0.0",
+  "displayName": "Unity AI Chat Assistant",
+  "description": "AI-powered Unity Editor extension for creating GameObjects and modifying scenes using natural language commands. Powered by OpenAI's GPT API.",
+  "unity": "2021.3",
+  "keywords": [
+    "ai",
+    "gpt",
+    "openai",
+    "editor",
+    "assistant",
+    "automation",
+    "scene",
+    "gameobject",
+    "natural language"
+  ],
+  "author": {
+    "name": "ChatUnityAI",
+    "email": "info@chatunityai.com"
+  },
+  "type": "tool",
+  "hideInEditor": false,
+  "category": "Unity Editor Extensions"
+} 
